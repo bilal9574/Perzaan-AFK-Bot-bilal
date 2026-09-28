@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pumpkinsmp001.aternos.me",
+    "ip": "creatormc001.aternos.me",
     "port": 49659,
     "version": "1.20.1",
     "try-creative": false
